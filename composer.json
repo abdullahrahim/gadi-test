@@ -1,0 +1,10 @@
+{
+    "require": {
+        "katzgrau/klogger": "dev-master"
+    },
+	"autoload": {
+        "psr-0": {
+            "AK\\": "inc/"
+        }
+    }
+}

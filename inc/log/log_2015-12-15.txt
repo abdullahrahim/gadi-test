@@ -1,0 +1,1 @@
+[2015-12-15 18:17:27.132024] [error] SQLSTATE[HY000] [1049] Unknown database 'testdb'
