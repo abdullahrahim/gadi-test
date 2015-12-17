@@ -29,7 +29,7 @@
 			catch (PDOException $e) 
 			{
 				
-				echo $this->ExceptionLog($e->getMessage());
+				echo $this->exceptionLog($e->getMessage());
 				die();
 			}
 		}
