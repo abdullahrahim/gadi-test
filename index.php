@@ -18,7 +18,7 @@ $dsn = 'mysql:dbname=gt_test;host=127.0.0.1';
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
-	<title>Example4</title>
+	<title>Example4 - Abdullah Rahim</title>
 	
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
 	<link rel="stylesheet" type="text/css" href="/media/css/site-examples.css?_=63e2c6d94b6d3d84d41a319bfecf7b5c">
